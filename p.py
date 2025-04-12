@@ -12,3 +12,4 @@ def ishappy(n):
         n = n //10
     return ishappy(sum)
 print(ishappy(9))
+
